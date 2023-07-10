@@ -19,10 +19,10 @@ fn main() {
             enum_example::enum_fun();
         }
         "list" => {
-            println!(" topic_list: {:?}",topic_list);
+            println!("topic_list: {:?}",topic_list);
         },
         _ => {
-            println!("Invalid arguement ...");
+            println!("Invalid arguement .");
         }
 
     }
